@@ -2,59 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2e983d-1c10-49a0-bc91-59ea673c3db6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/audio/audio.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/bg-body.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/bg-overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/dark_days_dash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/dark_hours_dash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/dark_minutes_dash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/dark_seconds_dash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/dark_weeks_dash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/dash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfontba72.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfontba72.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfontba72.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfontd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/pattern-overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/status.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/CaramelNuggets_400.font.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/Gotham_Book_400.font.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/appear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/cufon-yui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfontba72.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/general.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.ccountdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.knob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.lwtCountdown-1.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/styles.css" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\TimeCircles.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\ie9.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\images\bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\images\tab.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\images\tab2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\TimeCircles.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.ajaxchimp.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.placeholder.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\script.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angsle.github.io.iws" />
@@ -93,8 +40,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32894737" vertical-offset="1559" max-vertical-offset="3213">
-              <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.5206767" vertical-offset="1559" max-vertical-offset="3213">
+              <caret line="105" column="32" selection-start-line="105" selection-start-column="32" selection-end-line="105" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -314,7 +261,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424767924197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update coming soon page">
+      <created>1424771054183</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1424771054183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -401,8 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32894737" vertical-offset="1559" max-vertical-offset="3213">
-          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.5206767" vertical-offset="1559" max-vertical-offset="3213">
+          <caret line="105" column="32" selection-start-line="105" selection-start-column="32" selection-end-line="105" selection-end-column="32" />
           <folding />
         </state>
       </provider>
