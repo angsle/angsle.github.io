@@ -3,9 +3,9 @@
 // Config 
 //-------------------------------------------------------------
 
-var countdownDate = "2014/10/10"; // Enter your countdown date
+var countdownDate = "2016/01/16"; // Enter your countdown date
 
-var locationTitle = "The EventLand Conference"; // Enter your event title
+var locationTitle = "Reuni Akbar Angsle"; // Enter your event title
 var locationAddress = "4 Yawkey Way Boston, MA 02215"; // Enter your event address
 
 var twitterWidgetId = "345650238654136320"; // Enter your twitter widgetId
