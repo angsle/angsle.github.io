@@ -80,7 +80,11 @@ tfoot tr td {
     align-content: center;
     background-color: #eeeeee;
 }
-/* Tooltip 
+
+div iframe {
+}
+
+/* Tooltip
 -------------------------------------*/
 .tooltip .tooltip-inner {
   background-color: #5a6383;
@@ -538,7 +542,7 @@ header .event-info .event-info-register-btn i {
   margin-bottom: 50px;
   margin-top: 10px;
 }
-#newsletter form input {
+#newsletter form input, select, textarea {
   border: none;
   border-radius: 0;
   font-size: 24px;
@@ -670,7 +674,7 @@ header .event-info .event-info-register-btn i {
   margin: 0;
   padding: 0;
 }
-#register form input {
+#register form input, select, textarea {
   background-color: #dff3f4;
   border-radius: 0;
   border: none;
