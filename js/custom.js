@@ -3,12 +3,13 @@
 // Config 
 //-------------------------------------------------------------
 
-var countdownDate = "2016/01/16"; // Enter your countdown date
+var countdownDate = "2016/01/23"; // Enter your countdown date
 
-var locationTitle = "Reuni Akbar Angsle"; // Enter your event title
-var locationAddress = "4 Yawkey Way Boston, MA 02215"; // Enter your event address
+var locationTitle = "Lokasi Reuni: Villa Jambuluwuk"; // Enter your event title
 
-var twitterWidgetId = "345650238654136320"; // Enter your twitter widgetId
+var locationAddress = "Jl. Trunojoyo No 99, Batu Songgokerto Kec. Batu, Kota Batu, Jawa Timur 65312"; // Enter your event address
+
+var twitterWidgetId = "570295041906589696"; // Enter your twitter widgetId
 
 
 // Preloader 
@@ -57,7 +58,7 @@ $(".my-tooltip").tooltip();
 //-------------------------------------------------------------------------------
 
 $('.event-countdown').countdown(countdownDate, function(event) {
-	$(this).html(event.strftime('only <span class="days">%D</span> days, <span class="hours">%H</span> hours, <span class="minutes">%M</span> minutes and <span class="seconds">%S</span> seconds left'));
+	$(this).html(event.strftime('Tinggal <span class="days">%D</span> hari, <span class="hours">%H</span> jam, <span class="minutes">%M</span> menit dan <span class="seconds">%S</span> detik lagi'));
 });
 
 
@@ -222,18 +223,6 @@ $("#newsletter-form").submit(function() {
 
 // Register Form
 //-------------------------------------------------------------------------------
-$(".plan").on("click", function(){
-
-  $(".plan").removeClass("active");
-  $(".checkbox i").removeClass("fa-check-square-o");
-  $(".checkbox i").addClass("fa-square-o");
-  $("input[name=plan]").removeAttr("value");
-
-  $(this).toggleClass("active");
-  $(this).find(".checkbox i").toggleClass("fa-check-square-o fa-square-o");
-  var plan = $(this).find(".offer h4").text();
-  $("input[name=plan]").attr('value', plan);
-});
 
 $("#register input").on("focus", function(){
   $(this).addClass("active");

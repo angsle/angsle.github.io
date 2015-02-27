@@ -67,6 +67,19 @@ a {
 .validation-error {
   background-color: #ffd0d2 !important;
 }
+
+tr th {
+    text-align: center;
+    align-content: center;
+    background-color: #F8A300;
+    color: #ffffff;
+}
+
+tfoot tr td {
+    text-align: center;
+    align-content: center;
+    background-color: #eeeeee;
+}
 /* Tooltip 
 -------------------------------------*/
 .tooltip .tooltip-inner {
