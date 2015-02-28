@@ -592,7 +592,7 @@
             <div class="col-md-6 register-form">
                 <h3>Data Pribadi</h3>
                 <script type="text/javascript">var submitted=false;</script>
-                <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='berhasil.html';}"></iframe>
+                <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='http://angsle.com/berhasil/';}"></iframe>
                 <form id="registerForm" action="https://docs.google.com/forms/d/19u2bTHd1lVMDtIO-th0B8IM2_wpg0MqkoMAKoxqLs1Q/formResponse"
                       method="post" target="hidden_iframe" onsubmit="submitted=true;">
                     <input type="hidden" name="plan">
@@ -614,7 +614,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <input type="text" name="entry.193661064" id="entry.193661064"
-                                   class="form-control" placeholder="Jumlah Pengikut (0 jika tidak ada)">
+                                   class="form-control" placeholder="Jumlah Pengikut (hanya angka)">
                         </div>
                     </div>
                     <div class="row">
@@ -665,7 +665,7 @@
                     <div class="row" id="metode-bayar">
                         <div class="col-md-12">
                             <select style="width: 100%;" name="entry.58107199" id="entry_58107199">
-                                <option value="kosong">Pilih Pembayaran</option>
+                                <option value="kosong" selected="true" disabled="disabled">Pilih Pembayaran</option>
                                 <option value="Lunas">Lunas</option>
                                 <option value="Nyicil">Nyicil</option>
                             </select>
@@ -674,7 +674,7 @@
                     <div class="row" id="bayar-cicil">
                         <div class="col-md-12">
                             <select style="width: 100%;" name="entry.313532792" id="entry_313532792">
-                                <option value="">Lama Cicilan</option>
+                                <option value="" selected="true" disabled="disabled">Lama Cicilan</option>
                                 <option value="2 Bulan">2 Bulan</option>
                                 <option value="3 Bulan">3 Bulan</option>
                                 <option value="4 Bulan">4 Bulan</option>
