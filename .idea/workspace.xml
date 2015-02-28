@@ -2,212 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2e983d-1c10-49a0-bc91-59ea673c3db6" name="Default" comment="Edit demo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\GA.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\audio\audio.mp3" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\animate.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontba72.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontba72.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontba72.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontba72.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontd41d.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\bg-body.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\bg-overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_days_dash.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_hours_dash.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_minutes_dash.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_seconds_dash.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_weeks_dash.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dash.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\pattern-overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\status.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\CaramelNuggets_400.font.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\Gotham_Book_400.font.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\appear.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\cufon-yui.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\general.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.ccountdown.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.knob.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.lwtCountdown-1.0.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\berhasil.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\demo_table.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\steps.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\swipebox.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\table.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\google-form.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\about.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (1).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (10).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (11).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (12).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (13).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (14).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (15).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (16).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (17).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (18).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (19).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (2).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (20).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (21).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (22).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (23).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (24).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (25).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (26).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (27).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (28).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (29).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (3).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (4).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (5).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (6).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (7).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (8).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (9).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (1).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (10).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (11).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (12).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (13).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (14).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (15).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (16).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (17).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (18).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (19).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (2).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (20).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (21).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (22).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (23).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (24).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (25).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (26).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (27).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (28).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (29).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (3).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (4).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (5).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (6).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (7).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (8).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (9).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jambuluwuk-cover.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jambuluwuk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (1).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (10).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (11).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (12).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (13).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (14).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (15).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (16).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (17).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (18).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (19).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (2).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (20).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (21).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (22).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (23).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (24).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (25).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (26).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (27).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (28).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (29).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (3).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (30).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (31).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (32).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (33).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (34).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (35).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (36).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (37).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (38).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (39).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (4).jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (40).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (41).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (42).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (43).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (44).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (45).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (46).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (47).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (48).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (49).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (5).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (50).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (51).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (52).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (53).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (54).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (55).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (56).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (57).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (58).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (59).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (6).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (60).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (61).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (62).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (63).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (64).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (7).jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (8).jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (9).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\map-icon - Kopie.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\map-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\speaker1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\speaker2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\speaker3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (1).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (2).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (3).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (4).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (5).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (6).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (7).JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\data-tables-bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\jquery.swipebox.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\tabletop-feed.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\tabletop.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\tabel.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/angsle.github.io.iml" afterPath="$PROJECT_DIR$/.idea/angsle.github.io.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\demo.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="angsle.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -235,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57418114" vertical-offset="17603" max-vertical-offset="19159">
-              <caret line="1017" column="38" selection-start-line="1017" selection-start-column="38" selection-end-line="1017" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.79183674" vertical-offset="15473" max-vertical-offset="19125">
+              <caret line="900" column="49" selection-start-line="900" selection-start-column="49" selection-end-line="900" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#select#0;n#div#0;n#div#9;n#form#0;n#div#1;n#div#2;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -273,7 +68,6 @@
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/assets/js/general.js" />
         <option value="$PROJECT_DIR$/GA.txt" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/google-form.html" />
         <option value="$PROJECT_DIR$/tabel.html" />
         <option value="$PROJECT_DIR$/js/tabletop-feed.js" />
@@ -283,6 +77,7 @@
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/berhasil.html" />
         <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -480,7 +275,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -495,7 +290,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18910742" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18910742" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -704,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57418114" vertical-offset="17603" max-vertical-offset="19159">
-          <caret line="1017" column="38" selection-start-line="1017" selection-start-column="38" selection-end-line="1017" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.79183674" vertical-offset="15473" max-vertical-offset="19125">
+          <caret line="900" column="49" selection-start-line="900" selection-start-column="49" selection-end-line="900" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#select#0;n#div#0;n#div#9;n#form#0;n#div#1;n#div#2;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
