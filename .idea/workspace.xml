@@ -2,7 +2,212 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2e983d-1c10-49a0-bc91-59ea673c3db6" name="Default" comment="Edit demo">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\GA.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\audio\audio.mp3" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\animate.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\css\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontba72.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontba72.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontba72.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontba72.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\fontawesome-webfontd41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\bg-body.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\bg-overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_days_dash.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_hours_dash.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_minutes_dash.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_seconds_dash.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dark_weeks_dash.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\dash.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\pattern-overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\img\status.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\CaramelNuggets_400.font.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\Gotham_Book_400.font.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\appear.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\cufon-yui.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\general.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\init.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.ccountdown.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.knob.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.lwtCountdown-1.0.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\assets\js\modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\berhasil.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\demo_table.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\steps.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\swipebox.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css\table.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\google-form.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (1).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (10).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (11).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (12).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (13).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (14).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (15).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (16).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (17).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (18).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (19).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (2).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (20).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (21).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (22).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (23).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (24).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (25).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (26).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (27).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (28).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (29).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (3).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (4).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (5).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (6).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (7).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (8).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul (9).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (1).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (10).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (11).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (12).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (13).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (14).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (15).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (16).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (17).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (18).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (19).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (2).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (20).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (21).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (22).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (23).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (24).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (25).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (26).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (27).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (28).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (29).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (3).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (4).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (5).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (6).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (7).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (8).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul\jadul-m (9).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jambuluwuk-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jambuluwuk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (1).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (10).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (11).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (12).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (13).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (14).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (15).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (16).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (17).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (18).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (19).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (2).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (20).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (21).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (22).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (23).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (24).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (25).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (26).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (27).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (28).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (29).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (3).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (30).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (31).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (32).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (33).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (34).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (35).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (36).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (37).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (38).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (39).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (4).jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (40).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (41).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (42).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (43).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (44).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (45).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (46).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (47).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (48).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (49).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (5).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (50).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (51).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (52).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (53).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (54).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (55).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (56).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (57).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (58).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (59).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (6).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (60).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (61).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (62).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (63).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (64).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (7).jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (8).jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\luar\outside (9).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\map-icon - Kopie.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\speaker1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\speaker2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\speaker3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (1).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (2).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (3).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (4).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (5).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (6).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\together\together (7).JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\data-tables-bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\jquery.swipebox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\tabletop-feed.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\tabletop.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\tabel.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/angsle.github.io.iml" afterPath="$PROJECT_DIR$/.idea/angsle.github.io.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\demo.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="angsle.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +232,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.93061227" vertical-offset="15779" max-vertical-offset="19856">
-              <caret line="912" column="0" selection-start-line="912" selection-start-column="0" selection-end-line="912" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.57418114" vertical-offset="17603" max-vertical-offset="19159">
+              <caret line="1017" column="38" selection-start-line="1017" selection-start-column="38" selection-end-line="1017" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#select#0;n#div#0;n#div#9;n#form#0;n#div#1;n#div#2;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -47,31 +252,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="berhasil.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/berhasil.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.884615" vertical-offset="658" max-vertical-offset="3451">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="11835" max-vertical-offset="17459">
               <caret line="727" column="0" selection-start-line="727" selection-start-column="0" selection-end-line="727" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2533" max-vertical-offset="3298">
-              <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -152,20 +337,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angsle.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angsle.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -185,23 +356,23 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io" />
       <recent name="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js" />
       <recent name="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css" />
+      <recent name="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\js\framework" />
+      <recent name="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io" />
       <recent name="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\jadul" />
-      <recent name="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.berhasil.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/angsle.github.io/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="demo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/angsle.github.io/demo.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/angsle.github.io/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -246,13 +417,13 @@
     </configuration>
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.berhasil.html" />
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.berhasil.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.berhasil.html" />
         <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -308,27 +479,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39761093" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22995462" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39761093" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18910742" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -363,7 +534,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13430">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -381,24 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GA.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
-          <caret line="9" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="3383">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3451" max-vertical-offset="5661">
@@ -407,14 +560,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4692" max-vertical-offset="7667">
-          <caret line="276" column="12" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13430">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -432,24 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GA.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
-          <caret line="9" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="3383">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3451" max-vertical-offset="5661">
@@ -458,14 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4692" max-vertical-offset="7667">
-          <caret line="276" column="12" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13039">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -493,28 +614,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3196">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5519" max-vertical-offset="12019">
-          <caret line="335" column="18" selection-start-line="335" selection-start-column="11" selection-end-line="335" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4692" max-vertical-offset="7667">
-          <caret line="276" column="12" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="12478" max-vertical-offset="13056">
           <caret line="707" column="21" selection-start-line="707" selection-start-column="21" selection-end-line="707" selection-end-column="21" />
           <folding>
@@ -533,28 +632,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3196">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5519" max-vertical-offset="12019">
-          <caret line="335" column="18" selection-start-line="335" selection-start-column="11" selection-end-line="335" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4692" max-vertical-offset="7667">
-          <caret line="276" column="12" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="12478" max-vertical-offset="13056">
           <caret line="707" column="21" selection-start-line="707" selection-start-column="21" selection-end-line="707" selection-end-column="21" />
           <folding>
@@ -568,35 +645,6 @@
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3196">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5519" max-vertical-offset="12019">
-          <caret line="335" column="18" selection-start-line="335" selection-start-column="11" selection-end-line="335" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4692" max-vertical-offset="7667">
-          <caret line="276" column="12" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/general.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60394263" vertical-offset="1040" max-vertical-offset="1598">
-          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -607,57 +655,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5519" max-vertical-offset="12019">
-          <caret line="335" column="18" selection-start-line="335" selection-start-column="11" selection-end-line="335" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GA.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
-          <caret line="9" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/respond.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03046595" vertical-offset="0" max-vertical-offset="697">
-          <caret line="1" column="54" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/favicon.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google-form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2108" max-vertical-offset="2448">
-          <caret line="124" column="76" selection-start-line="124" selection-start-column="76" selection-end-line="124" selection-end-column="76" />
-          <folding>
-            <element signature="n#style#0;n#ol#0;n#form#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24329159" vertical-offset="4743" max-vertical-offset="7854">
-          <caret line="276" column="12" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/demo_table.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9758">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap-dropdown.js">
@@ -667,58 +667,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/tabletop-feed.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="257" max-vertical-offset="1122">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="595" max-vertical-offset="3502">
-          <caret line="35" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="193" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/steps.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/min/custom.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.82258064" vertical-offset="4573" max-vertical-offset="5678">
           <caret line="294" column="24" selection-start-line="294" selection-start-column="24" selection-end-line="294" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/table.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/swipebox.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -750,26 +702,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/berhasil.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.884615" vertical-offset="658" max-vertical-offset="3451">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tabel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.93609023" vertical-offset="641" max-vertical-offset="1326">
-          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.93061227" vertical-offset="15779" max-vertical-offset="19856">
-          <caret line="912" column="0" selection-start-line="912" selection-start-column="0" selection-end-line="912" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.57418114" vertical-offset="17603" max-vertical-offset="19159">
+          <caret line="1017" column="38" selection-start-line="1017" selection-start-column="38" selection-end-line="1017" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#select#0;n#div#0;n#div#9;n#form#0;n#div#1;n#div#2;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
