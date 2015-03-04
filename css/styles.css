@@ -92,27 +92,13 @@ div ul li {
 /* Thanks Page
 **************************************/
 
-.absolute-center {
-    margin: auto;
-    position: absolute;
-    top: 0; left: 0; bottom: 20%; right: 0;
-}
-
-.absolute-center.is-responsive {
-    width: 50%;
-    height: 50%;
-    min-width: 800px;
-    max-width: 400px;
-    padding: 40px;
-}
-
 .box {
     border-radius: 3px;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     padding: 10px 25px;
     text-align: right;
     display: block;
-    margin-top: 60px;
+    margin: 160px auto;
     background-color: white;
 }
 .box-icon {
@@ -154,7 +140,89 @@ div ul li {
     transition: all 0.5s ease 0s;
 }
 
+/* Progress Steps
+**************************************/
 
+.hiddenStepInfo {
+    display: none;
+}
+
+.activeStepInfo {
+    display: block !important;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.step {
+    margin-top: 27px;
+}
+
+.progress {
+    position: relative;
+    height: 25px;
+}
+
+.progress > .progress-type {
+    position: absolute;
+    left: 0px;
+    font-weight: 800;
+    padding: 0 30px 2px 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(25, 25, 25, 0.2);
+}
+
+.progress > .progress-completed {
+    position: absolute;
+    right: 0px;
+    font-weight: 800;
+    padding: 0 10px 2px;
+}
+
+.step {
+    text-align: center;
+}
+
+.step .col-md-2 {
+    background-color: #fff;
+    border: 1px solid #C0C0C0;
+    border-right: none;
+}
+
+.step .col-md-2:last-child {
+    border: 1px solid #C0C0C0;
+}
+
+.step .col-md-2:first-child {
+    border-radius: 5px 0 0 5px;
+}
+
+.step .col-md-2:last-child {
+    border-radius: 0 5px 5px 0;
+}
+
+.step .col-md-2:hover {
+    color: #F58723;
+    cursor: pointer;
+}
+
+.step .activestep {
+    color: #F58723;
+    height: 140px;
+    margin-top: -7px;
+    padding-top: 7px;
+    border-left: 6px solid #5CB85C !important;
+    border-right: 6px solid #5CB85C !important;
+    border-top: 3px solid #5CB85C !important;
+    border-bottom: 3px solid #5CB85C !important;
+    vertical-align: central;
+}
+
+.step .fa {
+    padding-top: 37px;
+    font-size: 30px;
+}
 
 /* Tooltip
 -------------------------------------*/
@@ -178,8 +246,8 @@ div ul li {
   width: 44px;
   height: 44px;
   position: fixed;
-  bottom: 44px;
-  right: 64px;
+  bottom: 10px;
+  right: 10px;
   display: none;
   text-indent: -9999px;
   background: url('../img/icon_top.png') no-repeat;
@@ -305,6 +373,14 @@ header #header-bg-fade {
   background-color: #fff;
   overflow: hidden;
 }
+#berhasil {
+    position: relative;
+    height: 650px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #11a8ab;
+}
 header #header-bg-fade img.img-fade {
   position: absolute;
   top: 0;
@@ -313,6 +389,7 @@ header #header-bg-fade img.img-fade {
   display: none;
   z-index: -1;
 }
+
 header .event-info {
   height: 200px;
   width: 946px;
@@ -941,7 +1018,7 @@ footer .btn i {
     left: 50%;
     margin-left: -50%;
   }
-  header #header-bg-fade {
+  header #header-bg-fade, #berhasil {
     height: 550px;
   }
   header .event-info .event-info-nav {
