@@ -186,7 +186,7 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             Silahkan lakukan pembayaran sesuai metode pembayaran yang kamu ambil, apakah langsung lunas atau nyicil selama beberapa bulan. Pembayaran bisa kamu transfer ke rekening berikut: <br/>
-                            <img src="img/bni-logo.png" alt="account BNI Angsle"/>&nbsp;&nbsp; BNI Syariah <br/>
+                            <img src="img/bni-logo.png" width="100%" alt="account BNI Angsle"/>&nbsp;&nbsp; BNI Syariah <br/>
                             <span class="glyphicon glyphicon-th"></span>&nbsp;&nbsp; 0372810375 <br/>
                             <span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp; Panji Ibrahim
                         </div>
@@ -245,7 +245,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <table class="table table-responsive table-bordered">
+                <table id="peserta" class="table table-responsive table-bordered">
                     <thead align="center">
                         <tr>
                             <th>Nama</th>
@@ -253,21 +253,9 @@
                             <th>Pekerjaan</th>
                             <th>Lokasi Tinggal</th>
                             <th>No. Telpon</th>
-                            <th>Pin BBM</th>
                             <th>Status Bayar</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <tr>
-                            <td>Irfan Fauzi</td>
-                            <td>IPA 3</td>
-                            <td>Web Trainer</td>
-                            <td>Jakarta</td>
-                            <td>085725725325</td>
-                            <td>-</td>
-                            <td>Belum Bayar</td>
-                        </tr>
-                    </tbody>
                 </table>
             </div>
         </div>
@@ -383,27 +371,12 @@
 <!-- Latest compiled and minified JavaScript -->
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/0.2.4/dist/jquery.sheetrock.min.js"></script>
-<script src="//cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js"></script>
 <script src="js/jquery.placeholder.min.js"></script>
 <script src="js/custom.js"></script>
 
 <script type="text/javascript">
-    // Define spreadsheet URL.
-    var mySpreadsheet = 'https://docs.google.com/spreadsheet/ccc?key=0AlRp2ieP7izLdGFNOERTZW0xLVpROFc3X3FJQ2tSb2c#gid=0';
 
-    // Compile the Handlebars template for HR leaders.
-    var HRTemplate = Handlebars.compile($('#hr-template').html());
-
-    // Load top five HR leaders.
-    $('#hr').sheetrock({
-        url: mySpreadsheet,
-        sql: "select A,C,D,I order by I desc",
-        chunkSize: 5,
-        headersOff: true,
-        rowHandler: HRTemplate
-    });
     function resetActive(event, percent, step) {
         $(".progress-bar").css("width", percent + "%").attr("aria-valuenow", percent);
         $(".progress-completed").text(percent + "%");
@@ -446,6 +419,17 @@
 
         $('.close').click(function () {
             $(this).parent().removeClass('in'); // hides alert with Bootstrap CSS3 implementation
+        });
+
+        // Define spreadsheet URL.
+        var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1wNhHtcC04GXelbFThb9yULKwLgSjZg1Kf7OXWv6LveU#gid=124059909';
+
+        // Load top ten switch hitters.
+        $('#peserta').sheetrock({
+            url: mySpreadsheet,
+            sql: "select B,E,F,G,H,M order by B asc",
+            chunkSize: 10,
+            headersOff: true
         });
 
     });
