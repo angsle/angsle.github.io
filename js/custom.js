@@ -58,7 +58,7 @@ $(".my-tooltip").tooltip();
 //-------------------------------------------------------------------------------
 
 $('.event-countdown').countdown(countdownDate, function(event) {
-	$(this).html(event.strftime('Tinggal <span class="days">%D</span> hari, <span class="hours">%H</span> jam, <span class="minutes">%M</span> menit dan <span class="seconds">%S</span> detik lagi'));
+	$(this).html(event.strftime('masih ada <span class="days">%D</span> hari, <span class="hours">%H</span> jam, <span class="minutes">%M</span> menit dan <span class="seconds">%S</span> detik lagi'));
 });
 
 
