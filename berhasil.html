@@ -4,25 +4,23 @@
     <title>Pendaftaran Berhasil - Angsle</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png"/>
-    <!-- Bootstrap -->
+
     <link href='http://fonts.googleapis.com/css?family=Cabin:400,700' rel='stylesheet' type='text/css'>
+
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-    <!--<link href="css/bootstrap.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" type="text/css" href="css/demo_table.css" />
-    <script type="text/javascript">
-        Shadowbox.init();
-    </script>
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <link href="css/styles-ie.css" rel="stylesheet">
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <link href="css/styles-ie.css" rel="stylesheet">
     <![endif]-->
+
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="73">
 
@@ -145,27 +143,27 @@
         </div>
         <div class="row">
             <div class="row step">
-                <div id="div1" class="col-md-2" onclick="javascript: resetActive(event, 0, 'step-1');">
+                <div id="div1" class="col-md-2" onclick="resetActive(event, 0, 'step-1');">
                     <span class="fa fa-pencil"></span>
                     <p>Isi Formulir</p>
                 </div>
-                <div class="col-md-2 activestep" onclick="javascript: resetActive(event, 20, 'step-2');">
+                <div class="col-md-2 activestep" onclick="resetActive(event, 20, 'step-2');">
                     <span class="fa fa-bank"></span>
                     <p>Transfer Pembayaran</p>
                 </div>
-                <div class="col-md-2" onclick="javascript: resetActive(event, 40, 'step-3');">
+                <div class="col-md-2" onclick="resetActive(event, 40, 'step-3');">
                     <span class="fa fa-bell"></span>
                     <p>Check Status</p>
                 </div>
-                <div class="col-md-2" onclick="javascript: resetActive(event, 60, 'step-4');">
+                <div class="col-md-2" onclick="resetActive(event, 60, 'step-4');">
                     <span class="fa fa-plane"></span>
                     <p>Datang Ke Gading</p>
                 </div>
-                <div class="col-md-2" onclick="javascript: resetActive(event, 80, 'step-5');">
+                <div class="col-md-2" onclick="resetActive(event, 80, 'step-5');">
                     <span class="fa fa-list-alt"></span>
                     <p>Ikut Acara</p>
                 </div>
-                <div id="last" class="col-md-2" onclick="javascript: resetActive(event, 100, 'step-6');">
+                <div id="last" class="col-md-2" onclick="resetActive(event, 100, 'step-6');">
                     <span class="fa fa-star"></span>
                     <p>Wajib Baca!</p>
                 </div>
@@ -308,12 +306,12 @@
                     <input type="hidden" name="_subject" value="Tanya Reuni" />
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="text" name="nama" id="nama" class="form-control" placeholder="Nama">
+                            <input type="text" name="nama" id="nama" class="form-control" placeholder="Nama" required>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="email" name="_reply" id="email" dir="auto" class="form-control" placeholder="Alamat email">
+                            <input type="email" name="_reply" id="email" dir="auto" class="form-control" placeholder="Alamat email" required>
                         </div>
                     </div>
                     <div class="row">
@@ -323,7 +321,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <textarea name="pesan" style="width: 100%; height: 150px" cols="5" placeholder="Isi pesan"></textarea>
+                            <textarea name="pesan" style="width: 100%; height: 150px" cols="5" placeholder="Isi pesan" required></textarea>
                         </div>
                     </div>
                     <div class="row">
@@ -347,11 +345,11 @@
                         <hr width="100%"/>
                     </div>
                     <div class="col-md-6">
-                        <h4><span class="fa fa-lg fa-user"></span>&nbsp;&nbsp;&nbsp; Ojik <small>(HR + Acara)</small></h4>
-                        <h4><span class="fa fa-lg fa-phone"></span>&nbsp;&nbsp;&nbsp; 085733215014</h4>
+                        <h4><span class="fa fa-lg fa-user"></span>&nbsp;&nbsp;&nbsp; Ojik <small>(HR)</small></h4>
+                        <h4><span class="fa fa-lg fa-phone"></span>&nbsp;&nbsp;&nbsp; 085646249094</h4>
                         <hr width="100%"/>
-                        <h4><span class="fa fa-lg fa-user"></span>&nbsp;&nbsp;&nbsp; Jazz <small>(Sponsor)</small></h4>
-                        <h4><span class="fa fa-lg fa-phone"></span>&nbsp;&nbsp;&nbsp; 085717392313</h4>
+                        <h4><span class="fa fa-lg fa-user"></span>&nbsp;&nbsp;&nbsp; Jazz <small>(Acara)</small></h4>
+                        <h4><span class="fa fa-lg fa-phone"></span>&nbsp;&nbsp;&nbsp; 085755327747</h4>
                         <hr width="100%"/>
                     </div>
                 </div>
@@ -382,14 +380,13 @@
 
 <a href="#" class="scrollup">Atas</a>
 
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/jquery-1.10.2.min.js"></script>
-<script src="js/jquery.placeholder.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-<!-- Load Handlebars.js from CloudFlare’s CDN. -->
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/0.2.4/dist/jquery.sheetrock.min.js"></script>
+<script src="//cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js"></script>
+<script src="js/jquery.placeholder.min.js"></script>
 <script src="js/custom.js"></script>
 
 <script type="text/javascript">

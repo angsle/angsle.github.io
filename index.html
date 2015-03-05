@@ -4,24 +4,23 @@
     <title>Angsle - Angkatan Social Language Exact</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png"/>
-    <!-- Bootstrap -->
+
     <link href='http://fonts.googleapis.com/css?family=Cabin:400,700' rel='stylesheet' type='text/css'>
+
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-    <!--<link href="css/bootstrap.min.css" rel="stylesheet">-->
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/styles.css">
-    <script type="text/javascript">
-        Shadowbox.init();
-    </script>
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <link href="css/styles-ie.css" rel="stylesheet">
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <link href="css/styles-ie.css" rel="stylesheet">
     <![endif]-->
+
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="73">
 
@@ -612,13 +611,13 @@
                     <input type="hidden" name="form-type" value="contact">
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="text" name="entry.871141841" id="entry_871141841" class="form-control" required minlength="5" placeholder="Nama Lengkap">
+                            <input type="text" name="entry.871141841" id="entry_871141841" class="form-control" required placeholder="Nama Lengkap">
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12 radio-bg">
-                            <select name="entry.80006833" id="entry_80006833" >
-                                <option value="kosong" disabled="disabled" selected="true">Jenis Kelamin</option>
+                            <select name="entry.80006833" id="entry_80006833" title="" required>
+                                <option value="kosong" disabled="disabled" selected>Jenis Kelamin</option>
                                 <option value="Laki-laki">Laki-laki</option>
                                 <option value="Perempuan">Perempuan</option>
                             </select>
@@ -626,14 +625,14 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="text" name="entry.193661064" id="entry.193661064"
-                                   class="form-control" placeholder="Jumlah Pengikut (hanya angka)">
+                            <input type="number" name="entry.193661064" id="entry.193661064"
+                                   class="form-control" placeholder="Jumlah Pengikut (0 jika kosong)" required>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <select name="entry.835996390" id="entry_835996390">
-                                <option value="kosong" selected="true" disabled="disabled">Pilih Kelas (waktu di SMA)</option>
+                            <select name="entry.835996390" id="entry_835996390" title="" required>
+                                <option value="kosong" selected disabled="disabled">Pilih Kelas (waktu di SMA)</option>
                                 <option value="IPA 1">IPA 1</option>
                                 <option value="IPA 2">IPA 2</option>
                                 <option value="IPA 3">IPA 3</option>
@@ -647,17 +646,17 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="text" name="entry.237676393" id="entry.237676393" class="form-control" placeholder="Pekerjaan Sekarang">
+                            <input type="text" name="entry.237676393" id="entry.237676393" class="form-control" placeholder="Pekerjaan Sekarang" required>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="text" name="entry.1729090865" id="entry.1729090865" class="form-control" placeholder="Lokasi Tinggal (nama kota)">
+                            <input type="text" name="entry.1729090865" id="entry.1729090865" class="form-control" placeholder="Lokasi Tinggal (nama kota)" required>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="text" name="entry_817077983" id="entry_817077983"  class="form-control" placeholder="No. Telepon/WA">
+                            <input type="number" name="entry_817077983" id="entry_817077983"  class="form-control" placeholder="No. Telepon/WA" required>
                         </div>
                     </div>
                     <div class="row">
@@ -667,18 +666,13 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="email" name="entry.1400112521" id="entry.1400112521" class="form-control" placeholder="Email">
+                            <input type="email" name="entry.1400112521" id="entry.1400112521" class="form-control" placeholder="Email" required>
                         </div>
                     </div>
-<!--                    <div class="row">
-                        <div class="col-md-12">
-                            <textarea  style="width: 100%; height: 150px" cols="5" placeholder="Masukan nama"></textarea>
-                        </div>
-                    </div>-->
                     <div class="row" id="metode-bayar">
                         <div class="col-md-12">
-                            <select style="width: 100%;" name="entry.58107199" id="entry_58107199">
-                                <option value="kosong" selected="true" disabled="disabled">Pilih Pembayaran</option>
+                            <select style="width: 100%;" name="entry.58107199" id="entry_58107199" title="" required>
+                                <option value="kosong" selected disabled="disabled">Pilih Pembayaran</option>
                                 <option value="Lunas">Lunas</option>
                                 <option value="Nyicil">Nyicil</option>
                             </select>
@@ -686,8 +680,8 @@
                     </div>
                     <div class="row" id="bayar-cicil">
                         <div class="col-md-12">
-                            <select style="width: 100%;" name="entry.313532792" id="entry_313532792">
-                                <option value="" selected="true" disabled="disabled">Lama Cicilan</option>
+                            <select style="width: 100%;" name="entry.313532792" id="entry_313532792" title="" required>
+                                <option value="" selected disabled="disabled">Lama Cicilan</option>
                                 <option value="2 Bulan">2 Bulan</option>
                                 <option value="3 Bulan">3 Bulan</option>
                                 <option value="4 Bulan">4 Bulan</option>
@@ -865,12 +859,12 @@
                     <input type="hidden" name="_subject" value="Tanya Reuni" />
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="text" name="nama" id="nama" class="form-control" placeholder="Nama">
+                            <input type="text" name="nama" id="nama" class="form-control" placeholder="Nama" required>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="email" name="_reply" id="email" dir="auto" class="form-control" placeholder="Alamat email">
+                            <input type="email" name="_reply" id="email" dir="auto" class="form-control" placeholder="Alamat email" required>
                         </div>
                     </div>
                     <div class="row">
@@ -880,7 +874,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <textarea name="pesan" style="width: 100%; height: 150px" cols="5" placeholder="Isi pesan"></textarea>
+                            <textarea name="pesan" style="width: 100%; height: 150px" cols="5" placeholder="Isi pesan" required></textarea>
                         </div>
                     </div>
                     <div class="row">
@@ -904,11 +898,11 @@
                         <hr width="100%"/>
                     </div>
                     <div class="col-md-6">
-                        <h4><span class="fa fa-lg fa-user"></span>&nbsp;&nbsp;&nbsp; Ojik <small>(HR + Acara)</small></h4>
-                        <h4><span class="fa fa-lg fa-phone"></span>&nbsp;&nbsp;&nbsp; 085733215014</h4>
+                        <h4><span class="fa fa-lg fa-user"></span>&nbsp;&nbsp;&nbsp; Ojik <small>(HR)</small></h4>
+                        <h4><span class="fa fa-lg fa-phone"></span>&nbsp;&nbsp;&nbsp; 085646249094</h4>
                         <hr width="100%"/>
-                        <h4><span class="fa fa-lg fa-user"></span>&nbsp;&nbsp;&nbsp; Jazz <small>(Sponsor)</small></h4>
-                        <h4><span class="fa fa-lg fa-phone"></span>&nbsp;&nbsp;&nbsp; 085717392313</h4>
+                        <h4><span class="fa fa-lg fa-user"></span>&nbsp;&nbsp;&nbsp; Jazz <small>(Acara)</small></h4>
+                        <h4><span class="fa fa-lg fa-phone"></span>&nbsp;&nbsp;&nbsp; 085755327747</h4>
                         <hr width="100%"/>
                     </div>
                 </div>
@@ -1027,13 +1021,12 @@
 
 <a href="#" class="scrollup">Atas</a>
 
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/jquery-1.10.2.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script src="js/jquery.countdown.min.js"></script>
 <script src="js/jquery.placeholder.min.js"></script>
 <script src="js/twitterFetcher_v10_min.js"></script>
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script src="js/custom.js"></script>
 
 <script>
@@ -1053,8 +1046,6 @@
                 }
             });
         }).change();
-
-
 
         $('#ss-submit').click(function () {
             $('#success-alert').addClass('in'); // shows alert with Bootstrap CSS3 implementation
