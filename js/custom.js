@@ -62,7 +62,6 @@ $('.event-countdown').countdown(countdownDate, function(event) {
 });
 
 
-
 // Navigation 
 //-------------------------------------------------------------------------------
 
