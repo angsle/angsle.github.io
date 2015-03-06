@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2e983d-1c10-49a0-bc91-59ea673c3db6" name="Default" comment="Edit demo">
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\back_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\back_enabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\back_enabled_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\forward_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\forward_enabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\forward_enabled_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\sort_asc.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\sort_asc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\sort_both.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\sort_desc.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\01-Irfan\Dropbox\My GitHub\angsle.github.io\img\sort_desc_disabled.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hasil.html" afterPath="$PROJECT_DIR$/hasil.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angsle.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,8 +46,8 @@
       <file leaf-file-name="hasil.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hasil.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26587301" vertical-offset="3096" max-vertical-offset="7973">
-              <caret line="187" column="77" selection-start-line="187" selection-start-column="77" selection-end-line="187" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.2361111" vertical-offset="4182" max-vertical-offset="7990">
+              <caret line="242" column="168" selection-start-line="242" selection-start-column="168" selection-end-line="242" selection-end-column="168" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#textarea#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -859,8 +849,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hasil.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26587301" vertical-offset="3096" max-vertical-offset="7973">
-          <caret line="187" column="77" selection-start-line="187" selection-start-column="77" selection-end-line="187" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.2361111" vertical-offset="4182" max-vertical-offset="7990">
+          <caret line="242" column="168" selection-start-line="242" selection-start-column="168" selection-end-line="242" selection-end-column="168" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
