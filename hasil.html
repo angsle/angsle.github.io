@@ -186,7 +186,7 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             Silahkan lakukan pembayaran sesuai metode pembayaran yang kamu ambil, apakah langsung lunas atau nyicil selama beberapa bulan. Pembayaran bisa kamu transfer ke rekening berikut: <br/>
-                            <img src="img/bni-logo.png" width="100%" alt="account BNI Angsle"/>&nbsp;&nbsp; BNI Syariah <br/>
+                            <img src="img/bni-logo.png" width="32px" height="10px" alt="account BNI Angsle"/>&nbsp;&nbsp; BNI Syariah <br/>
                             <span class="glyphicon glyphicon-th"></span>&nbsp;&nbsp; 0372810375 <br/>
                             <span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp; Panji Ibrahim
                         </div>
@@ -427,7 +427,7 @@
         // Load top ten switch hitters.
         $('#peserta').sheetrock({
             url: mySpreadsheet,
-            sql: "select B,E,F,G,H,M order by B asc",
+            sql: "select B,E,F,G,H,M order by A asc",
             chunkSize: 10,
             headersOff: true
         });
