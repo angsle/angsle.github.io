@@ -125,3 +125,12 @@ px      68    160    252    344    436    */
 	Overrides styles for devices with a 
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
+@media only screen and (min-width: 368px) and (max-width: 480px) {
+  #home {
+    margin-top: 75px;
+  }
+  header .row .logo h1 {
+    padding-top: 10px;
+    font-size: 25px;
+  }
+}
