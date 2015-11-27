@@ -480,6 +480,13 @@ input[type=text], input[type=email], input[type=url], textarea {
     color: #FF0000;
 }
 
+tr th {
+    text-align: center;
+    align-content: center;
+    background-color: #6fbf39;
+    color: #ffffff;
+}
+
 footer {
     background: #f9f9f9;
     border-top: 1px solid #e8e8e8;
